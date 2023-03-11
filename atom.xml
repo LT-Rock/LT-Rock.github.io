@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LT</title>
+  <icon>https://example.com/icon.png</icon>
+  
+  <link href="https://example.com/atom.xml" rel="self"/>
+  
+  <link href="https://example.com/"/>
+  <updated>2023-03-11T02:24:16.156Z</updated>
+  <id>https://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>乱世复兴——读《一代巨人：明末耶稣会士在中国》</title>
+    <link href="https://example.com/article/F00V90.html"/>
+    <id>https://example.com/article/F00V90.html</id>
+    <published>2023-03-11T02:23:02.000Z</published>
+    <updated>2023-03-11T02:24:16.156Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;利马窦&lt;br&gt;徐光启&lt;br&gt;汤若望&lt;br&gt;南怀仁&lt;/p&gt;
+&lt;p&gt;闭关的明朝，进入内地如同接近月球般艰难。1571年，利马窦在父亲的失望下加人修会。经过培训后，来到广东韶州居住。当时，中国传教区属日本传教区管辖。利马窦希望建立一个天主教的文明，让社会对教会接纳，然后才开始考虑</summary>
+        
+      
+    
+    
+    
+    
+    <category term="传教士" scheme="https://example.com/tags/%E4%BC%A0%E6%95%99%E5%A3%AB/"/>
+    
+    <category term="耶稣会" scheme="https://example.com/tags/%E8%80%B6%E7%A8%A3%E4%BC%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>除夕夜“炒冷饭”</title>
+    <link href="https://example.com/article/X18XWS.html"/>
+    <id>https://example.com/article/X18XWS.html</id>
+    <published>2023-02-12T07:59:13.000Z</published>
+    <updated>2023-02-12T08:16:30.015Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今年过年花了不少时间和爸爸谈论信仰的话题。趁着元宵节才过去几天（汗），赶紧记录下来。所聊的话题，过去也都聊过。&lt;/p&gt;
+&lt;p&gt;除夕吃完晚饭，开始提到信仰。他一贯认为信仰就是自己骗自己，和西游记或者他听过的单田芳评书没啥区别。他说，圣诞节是从义乌起源的（义乌的圣诞小装饰发往全</summary>
+        
+      
+    
+    
+    
+    
+    <category term="水深火热" scheme="https://example.com/tags/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>彼得装假：保罗新观讲座的意外收获</title>
+    <link href="https://example.com/article/17QS23Q.html"/>
+    <id>https://example.com/article/17QS23Q.html</id>
+    <published>2022-12-17T10:26:11.000Z</published>
+    <updated>2022-12-17T10:46:07.609Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.monergism.com/thethreshold/books/lecture%202%20-%20npp%20-%20da%20carson.mp3&quot;&gt;保罗新观 lecture</summary>
+        
+      
+    
+    
+    
+    
+    <category term="卡森" scheme="https://example.com/tags/%E5%8D%A1%E6%A3%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>孙文举是你什么人</title>
+    <link href="https://example.com/article/NZQK91.html"/>
+    <id>https://example.com/article/NZQK91.html</id>
+    <published>2022-12-03T11:57:26.000Z</published>
+    <updated>2022-12-03T12:05:13.587Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;以此文献给结婚即将满九小时的文举和悦涵&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;孙文举，子小孙，文化的文，举手的举。他喜欢这样介绍自己，他会不会说是举重的举，我却记不清。如果我没记错的话，名字是他爷爷起的，因为让梨的孔融字文举。&lt;/p&gt;
+&lt;p&gt;他</summary>
+        
+      
+    
+    
+    
+    
+    <category term="水深火热" scheme="https://example.com/tags/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客在linux上重新复活</title>
+    <link href="https://example.com/article/2T7H1S2.html"/>
+    <id>https://example.com/article/2T7H1S2.html</id>
+    <published>2022-11-21T12:01:36.000Z</published>
+    <updated>2022-11-26T12:20:59.576Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我很感恩，博客在linux系统上重新复活。前段时间将系统换成ubuntu，一方面是为了以后工作的需要，另一方面FOSS文化深深地影响了我。我发自内心地赞同开源，虽然从来没贡献过（笑）。我甚至觉得在ubuntu上安装chrome，或者搜狗输入法都是一种罪过（可叹现在只能巨难用</summary>
+        
+      
+    
+    
+    
+    
+    <category term="水深火热" scheme="https://example.com/tags/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国庆假期背单词</title>
+    <link href="https://example.com/article/2631177896.html"/>
+    <id>https://example.com/article/2631177896.html</id>
+    <published>2022-10-09T13:32:16.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;爱德华兹在被自己会众投票辞退后，因为无处可去，不得不继续呆在教会十一个月。在此期间，他在日记中透露：有时我觉得自己什么都不擅长，除了写作……&lt;/p&gt;
+&lt;p&gt;我自己有很多话想说，我也觉得像我这样细腻敏感的人，真得很想通过文字理清思绪，表达我的忧闷。有太多事情令人沮丧、无奈……</summary>
+        
+      
+    
+    
+    
+    
+    <category term="水深火热" scheme="https://example.com/tags/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我感恩，因为我病了</title>
+    <link href="https://example.com/article/3408478745.html"/>
+    <id>https://example.com/article/3408478745.html</id>
+    <published>2022-09-21T11:11:08.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我很感恩，因为我病了。&lt;/p&gt;
+&lt;p&gt;我病了，比往日里的感冒严重些。有点咳嗽，身上发酸（实际上是疼）。头疼，发热，一个梦接着一个梦（过去感冒也没这症状，能理解为啥发热会呓语，神志不清了，大脑真得不受控制啊），睡不着；身体忽冷忽热，一时间觉得我的小被子太薄了，一时间又觉得太厚</summary>
+        
+      
+    
+    
+    
+    
+    <category term="水深火热" scheme="https://example.com/tags/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>希伯来书中耶稣超越天使的难解经文</title>
+    <link href="https://example.com/article/4169596139.html"/>
+    <id>https://example.com/article/4169596139.html</id>
+    <published>2022-09-17T05:52:07.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://rackspace-wp1-s3.s3-us-west-1.amazonaws.com/media/audio/JBGay/2005Carson01.mp3&quot;&gt;Hard Texts: Why Does Hebrews Quote the</summary>
+        
+      
+    
+    
+    
+    
+    <category term="卡森" scheme="https://example.com/tags/%E5%8D%A1%E6%A3%AE/"/>
+    
+    <category term="释经" scheme="https://example.com/tags/%E9%87%8A%E7%BB%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我有教父——读《简明教会历史》笔记</title>
+    <link href="https://example.com/article/238044972.html"/>
+    <id>https://example.com/article/238044972.html</id>
+    <published>2022-09-17T05:51:10.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;学习只是工具，可以滋养头脑、心灵和生命，但绝不是目的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;当我回顾这本书时，两个感受:一、为什么过去看的现在一点印象都没有啦；二、我记录这些人物事迹到底有何意义？</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教会历史" scheme="https://example.com/tags/%E6%95%99%E4%BC%9A%E5%8E%86%E5%8F%B2/"/>
+    
+    <category term="教父" scheme="https://example.com/tags/%E6%95%99%E7%88%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个人的火之夜——读《帕斯卡尔：心灵与理性》</title>
+    <link href="https://example.com/article/2067455274.html"/>
+    <id>https://example.com/article/2067455274.html</id>
+    <published>2022-09-16T13:44:13.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;我们需要远离物质世界的东西，并且把知识追求——无数人为之迷醉、因之迷失——放到它应有的位置，也就是不值一提的位置上。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;……我们不认为哲学值得我们花上哪怕一小时的时间。&lt;/del&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本</summary>
+        
+      
+    
+    
+    
+    
+    <category term="帕斯卡尔" scheme="https://example.com/tags/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%B0%94/"/>
+    
+    <category term="人物传记" scheme="https://example.com/tags/%E4%BA%BA%E7%89%A9%E4%BC%A0%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>河南之行流水账</title>
+    <link href="https://example.com/article/2513830958.html"/>
+    <id>https://example.com/article/2513830958.html</id>
+    <published>2022-09-16T13:43:06.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;整体来说，我不喜欢旅行，因为不喜欢接触太多新信息，旅行让我感到厌烦。感恩的是，这次去河南并没有想象得那么累。可能是因为多数时间都沉浸在《魔戒》的世界中吧。&lt;/p&gt;
+&lt;p&gt;从焦作参加完师兄的婚礼后，借道郑州，见了下室友XW.</summary>
+        
+      
+    
+    
+    
+    
+    <category term="水深火热" scheme="https://example.com/tags/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>教理学基本原理——《伯克富系统神学》笔记（二）</title>
+    <link href="https://example.com/article/4279366780.html"/>
+    <id>https://example.com/article/4279366780.html</id>
+    <published>2022-04-04T12:43:13.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;问：外在、内在知识论原理分别为何？&lt;br&gt;答：神的特殊启示是外在知识论原理，信心是内在知识论原理。&lt;/p&gt;
+&lt;p&gt;问：改革宗圈子里喜欢谈的“客观宗教”与“主观宗教”分别为何？&lt;br&gt;答：客观宗教，也即规范人类宗教的标准，相当于律法、诫命；主观宗教，描述接受神话语命令的生活，</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ST" scheme="https://example.com/tags/ST/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>教理神学的观念和历史——《伯克富系统神学》笔记（一）</title>
+    <link href="https://example.com/article/3340593802.html"/>
+    <id>https://example.com/article/3340593802.html</id>
+    <published>2022-04-04T12:42:55.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;人受造的理性不愿意满足格言式的真理，而是渴望看到整理之间的关系。教理学——德国和荷兰的改革宗喜欢这个词，而美国更偏爱系统神学一词——的内容具有三个特征：一、从圣经引申而来；二、 是教会反思圣经真理结出的果实；三、</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ST" scheme="https://example.com/tags/ST/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读《中国革命1911：一位传教士眼中的辛亥镜像》</title>
+    <link href="https://example.com/article/1871082546.html"/>
+    <id>https://example.com/article/1871082546.html</id>
+    <published>2022-04-04T12:42:30.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;各省控制的铁路国有化，保路运动，武汉光复，黎元洪为首。&lt;/p&gt;
+&lt;p&gt;现代交通改变清朝，拉扯中国进入世界贸易，生活发生翻天变化。“总理衙门”负责外交，自然包括向外国借债修筑铁路。教会学校雨后春笋，邮政电话初具规模，英语学习蔚然成风。传教士与贪婪商人交织，却应当区分，例如传教</summary>
+        
+      
+    
+    
+    
+    
+    <category term="民国" scheme="https://example.com/tags/%E6%B0%91%E5%9B%BD/"/>
+    
+    <category term="传教士" scheme="https://example.com/tags/%E4%BC%A0%E6%95%99%E5%A3%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读《教堂音乐的历史》</title>
+    <link href="https://example.com/article/4160500822.html"/>
+    <id>https://example.com/article/4160500822.html</id>
+    <published>2022-04-04T12:41:34.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;70年，圣殿被毁，以色列宗教音乐进入坟墓或被忘记。早期的基督教有吟咏诗篇的传统，但赞美诗并非不被允许。中世纪早期格里高利圣咏（实际上就是一种带有音律的词语）蔚然成风。乐谱的发明使得音乐传播更加规范、准确。修士们每周诵读一遍诗篇是必修的功课，他们每周也会唱赞美诗。始于巴黎圣母</summary>
+        
+      
+    
+    
+    
+    
+    <category term="音乐" scheme="https://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="诗篇" scheme="https://example.com/tags/%E8%AF%97%E7%AF%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新约怎么说——读《圣经释经之旅》</title>
+    <link href="https://example.com/article/402987996.html"/>
+    <id>https://example.com/article/402987996.html</id>
+    <published>2022-04-04T12:41:11.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;问：关于读圣经就像读情书，如何理解？&lt;br&gt;答：读圣经就像读情书，尽可能地观察发现所有的细节。首先问的问题不是“这段经文的意义为何？”而是“这段经文在说什么？”</summary>
+        
+      
+    
+    
+    
+    
+    <category term="释经" scheme="https://example.com/tags/%E9%87%8A%E7%BB%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苦杯传来——读《日光之上》 傅格森 著</title>
+    <link href="https://example.com/article/1341041337.html"/>
+    <id>https://example.com/article/1341041337.html</id>
+    <published>2022-03-26T06:59:59.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;生命真得有意义吗？莎士比亚、陀思妥耶夫斯基、米开朗基罗他们的生命有意义吗？</summary>
+        
+      
+    
+    
+    
+    
+    <category term="传道书" scheme="https://example.com/tags/%E4%BC%A0%E9%81%93%E4%B9%A6/"/>
+    
+    <category term="生命意义" scheme="https://example.com/tags/%E7%94%9F%E5%91%BD%E6%84%8F%E4%B9%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>温斯顿·斯密斯的胜利——读《流放的灵魂：索尔仁尼琴》</title>
+    <link href="https://example.com/article/2983326240.html"/>
+    <id>https://example.com/article/2983326240.html</id>
+    <published>2022-03-26T06:59:37.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一九一八年，列宁下令处死沙皇和他的家人，五个月后，索尔仁尼琴出生。</summary>
+        
+      
+    
+    
+    
+    
+    <category term="人物传记" scheme="https://example.com/tags/%E4%BA%BA%E7%89%A9%E4%BC%A0%E8%AE%B0/"/>
+    
+    <category term="极权主义" scheme="https://example.com/tags/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/"/>
+    
+    <category term="东正教" scheme="https://example.com/tags/%E4%B8%9C%E6%AD%A3%E6%95%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谁来到中国的耶路撒冷——读《寻找苏慧廉》</title>
+    <link href="https://example.com/article/1044167325.html"/>
+    <id>https://example.com/article/1044167325.html</id>
+    <published>2022-03-26T06:59:14.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1882年2月英国循道会下的偕我公会派来的年轻人抵达上海，他叫苏慧廉。他不是第一位来温州的宣教士，却是影响最为深远的一位。早在1865年，内地会的曹雅直就经由宁波来到温州。曹雅直感激戴德生愿意接受他这个瘸腿的人来中国。&lt;/p&gt;
+&lt;p&gt;1883年，中法因越南问题交战。中国军队</summary>
+        
+      
+    
+    
+    
+    
+    <category term="人物传记" scheme="https://example.com/tags/%E4%BA%BA%E7%89%A9%E4%BC%A0%E8%AE%B0/"/>
+    
+    <category term="传教士" scheme="https://example.com/tags/%E4%BC%A0%E6%95%99%E5%A3%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再见了，幕府山</title>
+    <link href="https://example.com/article/703333310.html"/>
+    <id>https://example.com/article/703333310.html</id>
+    <published>2022-03-26T06:58:35.000Z</published>
+    <updated>2022-11-19T05:46:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;距离我回南京一年，还差五天的时间。我也搬家了，从上元里搬到莫愁东寓。我工作也即将两年时间。返回南京一年比我想象的要漫长，有时又显得飞快。想要花时间进行深入的反省，对工作，对生活，对教会，似乎太费时间，也容易让我陷入到病态省察中。还是想到哪，写到哪吧。我也意识到反省更多会受到</summary>
+        
+      
+    
+    
+    
+    
+    <category term="水深火热" scheme="https://example.com/tags/%E6%B0%B4%E6%B7%B1%E7%81%AB%E7%83%AD/"/>
+    
+  </entry>
+  
+</feed>
